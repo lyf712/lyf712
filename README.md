@@ -24,3 +24,8 @@ Here are some ideas to get you started:
 ### Gihub Stars:😄
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lyf712&show_icons=true">
+
+
+### About repository🤔:
+
+在github上，我将主要进行个人的仓库，java-backend 维护，将会记录有关个人学习、练习Java后端相关的技术，不仅限于Java语言本身，还包括操作系统，算法，设计模式等。另外一个项目nacos,将是参与阿里巴巴开源项目，参与开源，提升设计、开发、合作能力。
