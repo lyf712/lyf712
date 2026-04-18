@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - 本科期间，爱折腾，参与过两次江苏省大学生创新创业项目，两次互联网+，两次蓝桥杯竞赛，也有些专业以外的事：创办公益社，去山区支教，组织班级活动。
 - 有时也写写博客,这是我的博客[CSDN](https://blog.csdn.net/qq_44654974?spm=1019.2139.3001.5343)📫
 - 有时为了便于提交以及参与国内的开源代码建设，丰富国内版github，也进行了部分在gitee的提交，这是我的[gitee](https://gitee.com/li-yunfei-712))📫，
-- 准备就职华为南研所终端BG广告部门
 
 ### Gihub Stars:😄
 
